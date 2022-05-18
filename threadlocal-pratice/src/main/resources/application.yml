@@ -1,0 +1,4 @@
+spring:
+  redis:
+    password: ufanD403#$%^
+    host: 127.0.0.1

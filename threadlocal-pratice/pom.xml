@@ -10,11 +10,11 @@
     </parent>
     <groupId>com.ggs</groupId>
     <artifactId>threadlocal-pratice</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>Starbug_V1.0.0</version>
     <name>threadlocal-pratice</name>
     <description>threadlocal-pratice</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>8</java.version>
         <repackage.classifier/>
         <spring-cloud.version>2021.0.2</spring-cloud.version>
         <spring-native.version>0.11.5</spring-native.version>

@@ -1,6 +1,6 @@
 FROM openjdk:8-oracle
 
-ENV version="${maven.project.version}"
+ENV version=${maven.project.version}
 
 ADD threadlocal-pratice-$version /home/project/threadlocal-pratice-$version
 
